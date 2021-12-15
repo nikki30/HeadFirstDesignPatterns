@@ -4,6 +4,7 @@ Whenever I have a pattern that I learnt, I will update this repo with a folder s
 ## Design principles:
 - 1: Identify the aspects of your application that vary and separate them from what stays the same <br />
 -> Like, in Strategy patterns, we saw how ducks may have different quack and fly behaviours so separating them out to an interface is key.
+-> Trying to identify which part of the code to encapsulate is important - it will be the part that is common & should be separated out.
 
 - 2: Program to an interface, not an implementation <br />
 -> Use polymorphism. Once you know that there are a myriad of ways we can fly/quack, introduce a set of classes around the interface that implement each of the behaviours.
