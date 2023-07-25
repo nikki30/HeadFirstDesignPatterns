@@ -14,4 +14,4 @@ Side note: this allows code re-use. Let's say a weather app has three different 
 -> When you expect a HAS-A relationship such as the one between a duck and its flying behaviours, it is better to create a composition (duck HAS-A set of behaviour classes) as opposed to Duck : FlyableBehaviours.
 
   
-![coderun]([http://url/to/img.png](https://github.com/nikki30/HeadFirstDesignPatterns/blob/main/StrategyPattern/Screen%20Shot%202023-07-24%20at%208.37.44%20PM.png)https://github.com/nikki30/HeadFirstDesignPatterns/blob/main/StrategyPattern/Screen%20Shot%202023-07-24%20at%208.37.44%20PM.png)
+![coderun](https://github.com/nikki30/HeadFirstDesignPatterns/blob/main/StrategyPattern/Screen%20Shot%202023-07-24%20at%208.37.44%20PM.png)
