@@ -1,0 +1,13 @@
+/Users/nikitasivakumar/Projects/DuckCode/ObserverPattern/bin/Debug/netcoreapp3.1/ObserverPattern.deps.json
+/Users/nikitasivakumar/Projects/DuckCode/ObserverPattern/bin/Debug/netcoreapp3.1/ObserverPattern.runtimeconfig.json
+/Users/nikitasivakumar/Projects/DuckCode/ObserverPattern/bin/Debug/netcoreapp3.1/ObserverPattern.runtimeconfig.dev.json
+/Users/nikitasivakumar/Projects/DuckCode/ObserverPattern/bin/Debug/netcoreapp3.1/ObserverPattern.dll
+/Users/nikitasivakumar/Projects/DuckCode/ObserverPattern/bin/Debug/netcoreapp3.1/ObserverPattern.pdb
+/Users/nikitasivakumar/Projects/DuckCode/ObserverPattern/obj/Debug/netcoreapp3.1/ObserverPattern.csproj.AssemblyReference.cache
+/Users/nikitasivakumar/Projects/DuckCode/ObserverPattern/obj/Debug/netcoreapp3.1/ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitasivakumar/Projects/DuckCode/ObserverPattern/obj/Debug/netcoreapp3.1/ObserverPattern.AssemblyInfoInputs.cache
+/Users/nikitasivakumar/Projects/DuckCode/ObserverPattern/obj/Debug/netcoreapp3.1/ObserverPattern.AssemblyInfo.cs
+/Users/nikitasivakumar/Projects/DuckCode/ObserverPattern/obj/Debug/netcoreapp3.1/ObserverPattern.csproj.CoreCompileInputs.cache
+/Users/nikitasivakumar/Projects/DuckCode/ObserverPattern/obj/Debug/netcoreapp3.1/ObserverPattern.dll
+/Users/nikitasivakumar/Projects/DuckCode/ObserverPattern/obj/Debug/netcoreapp3.1/ObserverPattern.pdb
+/Users/nikitasivakumar/Projects/DuckCode/ObserverPattern/obj/Debug/netcoreapp3.1/ObserverPattern.genruntimeconfig.cache
