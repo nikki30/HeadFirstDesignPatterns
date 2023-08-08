@@ -36,7 +36,19 @@ namespace ObserverPattern
 
         private void OnMeasurementsChanged()
         {
-            NotifyObservers();
+            if (SetChanged())
+            {
+                NotifyObservers();
+            }
+        }
+
+        private bool SetChanged()
+        {
+            // if some criteria is met, then setChanged is updated to true, else false.
+            // This helps to control how many notifications the observer receives. For example, if delta change in temp is > 3 degress, only then inform customer.
+            // One more benefit is we can choose to NotifyObservers(with changed args) or just NotifyObservers() - this allows them to 'pull' data if they want.
+            // Instead of Subject pushing data.
+            return true;
         }
 
         public void SetMeasurements()
